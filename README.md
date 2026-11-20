@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋 [Developed By Salman Hasan]
+# Welcome to your Expo app 👋 [Developed By Salman Hasan] [2/28/1995] 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
